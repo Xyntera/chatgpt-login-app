@@ -168,7 +168,7 @@ export default function HomePage() {
 					You never pay OpenAI for usage. Works on any plan: Free, Go, Plus, or
 					Pro — the right model is selected automatically.
 				</p>
-				<a className="btn-ghost" href="https://x.com" target="_blank" rel="noreferrer">
+				<a className="btn-ghost" href="https://x.com/glaqzz" target="_blank" rel="noreferrer">
 					Follow on X
 				</a>
 			</section>
