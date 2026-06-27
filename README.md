@@ -1,3 +1,4 @@
+# CREDIT FOR THE IDEA [Savio martin](https://x.com/saviomartin7/status/2070531441415602469)
 # Login with ChatGPT
 
 Add a **"Login with ChatGPT"** button to your site. Users log in with their
